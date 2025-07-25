@@ -30,13 +30,6 @@ Diseñado con enfoque responsivo, código limpio y lógica clara.
 └── package.json # Dependencias y scripts
 
 
----
-
-## 🖼️ Vista previa
-
-![Vista previa del juego](./vistapreviagithub.png)
-
-
 ## 🚀 Ver online
 
 🔗 [Ir al juego en Vercel (Patsy Dev)](https://tictactoe-react-typescr-git-2ea55e-patsy-the-pug-dev-s-projects.vercel.app/)
